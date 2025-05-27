@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "staydrippedmobile",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "478f39ab-28af-48eb-9ea4-c8e6b664f1e0",
+      "database_name": "Staydrippedmobile"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
